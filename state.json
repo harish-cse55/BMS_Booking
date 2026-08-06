@@ -4,7 +4,7 @@
     "20260803": "2026-07-30T10:00:13.551Z",
     "20260810": "2026-08-03T16:43:02.489Z"
   },
-  "consecutiveBlocks": 2,
-  "blockAlertSent": false,
-  "lastRun": "2026-08-06T04:33:39.417Z"
+  "consecutiveBlocks": 3,
+  "blockAlertSent": true,
+  "lastRun": "2026-08-06T07:28:25.543Z"
 }
